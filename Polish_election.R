@@ -57,7 +57,7 @@ partie <- c("KOALICYJNY KOMITET WYBORCZY TRZECIA DROGA POLSKA 2050 SZYMONA HOŁO
 #  \ \ /\ / / | | | '_ \| | |/ / |  / _ \| |_| |/ __|| |/ _` | | '_ \ / _ \
 #   \ V  V /| |_| | | | | |   <| | | (_) |  _| | (__ | | (_| | | | | |  __/
 #    \_/\_/  \__, |_| |_|_|_|\_\_|  \___/|_| |_|\___|/ |\__,_|_|_| |_|\___|
-#                                                          |___/                                 |__/
+#             |___/                                 |__/
 # Założenie: każdy okręg ma egzogenicznie ustaloną liczbę mandatów 
  
 #Liczenie głosów dla każdej partii w każdym okręgu według FAKTYCZNEJ liczby mandatów dla każdego okręgu
