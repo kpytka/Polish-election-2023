@@ -76,8 +76,7 @@ mandaty_faktycznie <- wyniki %>% group_by(`Nr okręgu`) %>%
                 partie = partie
                 )
  
- mandaty_faktycznie %>% ungroup %>% group_by(partie) %>% 
-                    summarise(Mandaty = sum(dHondt))
+ 
  
  
  
